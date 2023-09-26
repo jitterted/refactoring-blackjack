@@ -1,5 +1,6 @@
 # Refactoring Maneuvers
 
+This repository goes along with the series of videos on Refactoring Maneuvers in IntelliJ IDEA by Ted M. Young (aka JitterTed).
 
 ## Requirements
 
